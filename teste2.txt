@@ -1,1 +1,7 @@
 Teste de arquivo 2
+
+CT01-Cenário de teste: XPTO
+
+CT02-Cenário de teste: CRUD
+
+CT03-Cenário de teste: E2E
